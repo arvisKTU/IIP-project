@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IIP_Projektas</string>
+    <string name="about">About</string>
+    <string name="speti">Spėti</string>
+    <string name="highscore">Leaderboard</string>
+    <string-array name="diff_array">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+    </string-array>
+</resources>
